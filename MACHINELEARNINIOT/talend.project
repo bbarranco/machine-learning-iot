@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_v-Zs4V0BEei3J5tUYmzZEA" label="MachineLearninIoT" description="" language="java" technicalLabel="MACHINELEARNINIOT" creationDate="2018-05-21T14:14:51.128+0000" author="_v-Zs4l0BEei3J5tUYmzZEA" productVersion="Talend Real-time Big Data Platform-6.5.1.20171215_1808-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bbarranco/machine-learning-iot.git&quot;,&quot;login&quot;:&quot;bbarranco&quot;,&quot;passwd&quot;:&quot;AYUnf8tjg5WMKZ2Ta1M75g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_v-Zs4V0BEei3J5tUYmzZEA" label="MachineLearninIoT" description="" language="java" technicalLabel="MACHINELEARNINIOT" creationDate="2018-05-21T14:14:51.128+0000" author="_v-Zs4l0BEei3J5tUYmzZEA" productVersion="Talend Real-time Big Data Platform-6.5.1.20171215_1808-EP" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/bbarranco/machine-learning-iot.git&quot;,&quot;login&quot;:&quot;bbarranco&quot;,&quot;passwd&quot;:&quot;AYUnf8tjg5WMKZ2Ta1M75g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_wGRPcF0BEei3J5tUYmzZEA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_wGRPcV0BEei3J5tUYmzZEA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_wGRPcl0BEei3J5tUYmzZEA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_wF9tcF0BEei3J5tUYmzZEA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_wF9tcV0BEei3J5tUYmzZEA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_wF9tcl0BEei3J5tUYmzZEA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_wEefsF0BEei3J5tUYmzZEA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wEefsV0BEei3J5tUYmzZEA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_wEefsl0BEei3J5tUYmzZEA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
